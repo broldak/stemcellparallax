@@ -371,6 +371,7 @@ p { line-height: 1.333em; }
 
 #slide-7 h1{
   color: black;
+  margin-bottom: 0px;
 }
 
 #slide-7 .caption {
