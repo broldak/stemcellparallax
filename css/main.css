@@ -464,6 +464,7 @@ p { line-height: 1.333em; }
   background-color: transparent;
   border-radius: 5px;
   padding: 10px;
+  font-family: 'Roboto', sans-serif;
 }
 
 .md-close:hover {
